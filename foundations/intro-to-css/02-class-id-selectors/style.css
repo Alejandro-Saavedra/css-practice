@@ -1,19 +1,22 @@
+
+
 .odd {
-background-color: rgb(250, 2, 101);
-font-family: Verdana, 'DejaVu sans', 'sans-serif';
+    background-color: pink;
 }
 
-#second {
-    color: rgb(5, 60, 163);
-    font-size: 36px;
+.odd#third{
+    font-size:xx-large;
+    font-weight: 500;
+
 }
 
-#third {
-    font-size: 24px;
+#second{
+    color: blue;
+    font-size: xx-large;
+    font-weight: 550;
 }
-
-#fourth {
-    background-color: rgb(91, 198, 91);
-    font-size: 24px;
-    font-weight: bold;
+#fourth{
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: x-large;
 }
