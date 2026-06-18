@@ -16,7 +16,7 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 -x There are 8px between the title text and the edge of the title section.
 -x The content section has 16px space on the top and bottom, and 8px on either side. padding: top/bottom left/right
 -x Everything inside the `.button-container` section is centered, and there is 8px padding. text-align: center
--x The Big Button is centered on its own line. used display: box
+-x The Big Button is centered on its own line. used display: block
 
 -x The Big Button has 24px space on the sides, and 8px on top and bottom.
 Used padding: 8px 24px
